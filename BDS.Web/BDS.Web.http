@@ -1,0 +1,6 @@
+@BDS.Web_HostAddress = http://localhost:5137
+
+GET {{BDS.Web_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
